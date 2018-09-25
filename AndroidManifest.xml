@@ -12,7 +12,7 @@
     <!-- Set your launcher title here -->
         <activity android:name="su.xash.xash3d.LauncherActivity"
                   android:label="Adrenaline Gamer"
-			android:windowSoftInputMode="adjustResize">
+		  android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
